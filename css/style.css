@@ -89,16 +89,16 @@ h1{
 }
 /*Slider*/
 
-.slider img{
+
+.main> img{
 	border-bottom: 1px solid #138aa7;
-}
-.slider{
-	height: 239px;
+	
 }
 /*NAVBAR*/
 .menu {
 	box-shadow: 0 2px 2px;
 	background-color: #333333;
+	margin: -4px 0 3px;
 }
 .menu> ul> li{
 	display: inline-block;
